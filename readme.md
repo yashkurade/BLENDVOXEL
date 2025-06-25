@@ -14,11 +14,11 @@ BlendVoxel is a voxel modeling workspace for Blender that provides an interactiv
 INSTALLATION:
 -------------
 1. Extract the 'BlendVoxelMaster.zip' ZIP file.
-1. Open Blender.
-2. Go to Edit > Preferences > Add-ons.
-3. Click "Install..." and select 'BlendVoxel.zip' ZIP file. (MAKE SURE YOU DONT SELECT 'BlendVoxelMaster.zip' ZIP FILE)
-4. Enable "Voxel Grid Generator" from the list.
-5. Access the tools in the 3D View Sidebar (press `N`), under the "BlendVoxel" tab.
+2. Open Blender.
+3. Go to Edit > Preferences > Add-ons.
+4. Click "Install..." and select 'BlendVoxel.zip' ZIP file. (MAKE SURE YOU DONT SELECT 'BlendVoxelMaster.zip' ZIP FILE)
+5. Enable "Voxel Grid Generator" from the list.
+6. Access the tools in the 3D View Sidebar (press `N`), under the "BlendVoxel" tab.
 
 FEATURES:
 ---------
